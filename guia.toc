@@ -1,0 +1,228 @@
+\select@language {brazilian}
+\contentsline {section}{Introdu\IeC {\c c}\IeC {\~a}o}{5}{section*.2}
+\contentsline {section}{Regras Oficiais}{7}{section*.3}
+\contentsline {subsection}{Regras em Verbatim}{7}{section*.4}
+\contentsline {subsection}{Ambiguidade das Regras Oficiais}{13}{section*.5}
+\contentsline {subsubsection}{Procedimentos Pr\IeC {\'e}-jogo}{13}{section*.6}
+\contentsline {paragraph}{Op\IeC {\c c}\IeC {\~o}es}{14}{section*.7}
+\contentsline {subsubsection}{Corre\IeC {\c c}\IeC {\~o}es}{15}{section*.8}
+\contentsline {paragraph}{Op\IeC {\c c}\IeC {\~o}es}{16}{section*.9}
+\contentsline {subsubsection}{O Desafio do Curinga}{16}{section*.10}
+\contentsline {paragraph}{Op\IeC {\c c}\IeC {\~o}es}{17}{section*.11}
+\contentsline {paragraph}{Op\IeC {\c c}\IeC {\~o}es}{17}{section*.12}
+\contentsline {subsubsection}{A Cor do Descarte}{17}{section*.13}
+\contentsline {subsubsection}{Fim das Cartas}{18}{section*.14}
+\contentsline {paragraph}{Op\IeC {\c c}\IeC {\~o}es}{18}{section*.15}
+\contentsline {subsubsection}{Desafio UNO}{18}{section*.16}
+\contentsline {subsection}{Os Pr\IeC {\'o}ximos Exemplos}{19}{section*.17}
+\contentsline {section}{Estrat\IeC {\'e}gias do Jogo Oficial}{20}{section*.18}
+\contentsline {subsection}{Estrat\IeC {\'e}gia Geral}{20}{section*.19}
+\contentsline {subsubsection}{Continuidade do Jogo}{21}{section*.20}
+\contentsline {subsubsection}{Escolha das Cartas em Virtude da Continuidade}{21}{section*.21}
+\contentsline {paragraph}{Conclus\IeC {\~a}o}{24}{section*.22}
+\contentsline {subsection}{O Jogo dos Outros}{25}{section*.23}
+\contentsline {subsubsection}{Seguran\IeC {\c c}a}{25}{section*.24}
+\contentsline {subsubsection}{Leitura dos Jogadores: Psicologia}{26}{section*.25}
+\contentsline {subsubsection}{Leitura dos Jogadores: Cartas}{30}{section*.26}
+\contentsline {subsubsection}{Memoriza\IeC {\c c}\IeC {\~a}o das Cartas}{31}{section*.27}
+\contentsline {paragraph}{Conclus\IeC {\~a}o}{32}{section*.28}
+\contentsline {subsection}{O Est\IeC {\'\i }mulo Passional}{32}{section*.29}
+\contentsline {paragraph}{Conclus\IeC {\~a}o}{37}{section*.30}
+\contentsline {subsection}{Estrat\IeC {\'e}gias Espec\IeC {\'\i }ficas}{37}{section*.31}
+\contentsline {subsubsection}{O Curinga Surpresa}{37}{section*.32}
+\contentsline {subsubsection}{``Olha o Avi\IeC {\~a}o'' Longo}{38}{section*.33}
+\contentsline {subsubsection}{Jogue o Zero, Mantenha o Zero}{39}{section*.34}
+\contentsline {subsubsection}{O Consumismo}{39}{section*.35}
+\contentsline {subsubsection}{Tr\IeC {\'e}buchet Longo}{41}{section*.36}
+\contentsline {subsubsection}{Pontos Extras}{42}{section*.37}
+\contentsline {subsection}{Jogo em Dupla}{42}{section*.38}
+\contentsline {subsubsection}{Assertividade e Oportunismo}{43}{section*.39}
+\contentsline {subsubsection}{Flexibilidade}{44}{section*.40}
+\contentsline {subsection}{Estrat\IeC {\'e}gias Espec\IeC {\'\i }ficas do Jogo em Dupla}{45}{section*.41}
+\contentsline {subsubsection}{Tr\IeC {\'e}buchet Curto}{45}{section*.42}
+\contentsline {subsection}{Jogo em Parceiros}{46}{section*.43}
+\contentsline {subsubsection}{Dupla Continuidade}{47}{section*.44}
+\contentsline {subsubsection}{Escolha das Cartas em Virtude da Dupla Continuidade}{47}{section*.45}
+\contentsline {subsection}{Sinais}{54}{section*.46}
+\contentsline {subsection}{Estrat\IeC {\'e}gias Espec\IeC {\'\i }ficas de Jogo de Parceiros}{56}{section*.47}
+\contentsline {subsubsection}{O Curinga Facilitado}{56}{section*.48}
+\contentsline {subsubsection}{``Olha o Avi\IeC {\~a}o'' Curto}{56}{section*.49}
+\contentsline {subsubsection}{Zero em Duplas}{57}{section*.50}
+\contentsline {subsubsection}{Tr\IeC {\'e}buchet Duplo}{57}{section*.51}
+\contentsline {subsubsection}{Abastecimento}{58}{section*.52}
+\contentsline {subsubsection}{Isolamento}{59}{section*.53}
+\contentsline {subsubsection}{Isolamento Sistem\IeC {\'a}tico}{60}{section*.54}
+\contentsline {subsubsection}{Isolamento Fatal}{60}{section*.55}
+\contentsline {section}{Regras Alternativas: A Customiza\IeC {\c c}\IeC {\~a}o do UNO}{62}{section*.56}
+\contentsline {subsection}{Regras que Modificam o Objetivo do Jogo}{62}{section*.57}
+\contentsline {subsubsection}{N\IeC {\'u}mero de Pontos}{62}{section*.58}
+\contentsline {subsubsection}{Regra do Torneio de Vit\IeC {\'o}rias [TV]}{63}{section*.59}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{63}{section*.60}
+\contentsline {paragraph}{Varia\IeC {\c c}\IeC {\~o}es}{64}{section*.61}
+\contentsline {paragraph}{Indicado}{64}{section*.62}
+\contentsline {subsubsection}{Regra dos Pontos Reversos [PR]}{64}{section*.63}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{64}{section*.64}
+\contentsline {paragraph}{Indicado}{65}{section*.65}
+\contentsline {subsubsection}{Regra da Morte S\IeC {\'u}bita [MS]}{65}{section*.66}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{66}{section*.67}
+\contentsline {paragraph}{Varia\IeC {\c c}\IeC {\~o}es}{66}{section*.68}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{66}{section*.69}
+\contentsline {paragraph}{Indicado}{68}{section*.70}
+\contentsline {subsection}{Regras que Modificam a Din\IeC {\^a}mica de Jogo}{68}{section*.71}
+\contentsline {subsubsection}{Regra do Final Limpo [FL]}{68}{section*.72}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{68}{section*.73}
+\contentsline {paragraph}{Varia\IeC {\c c}\IeC {\~o}es}{68}{section*.74}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{69}{section*.75}
+\contentsline {paragraph}{Indicado}{70}{section*.76}
+\contentsline {subsubsection}{Regra do Flash UNO [FU]}{70}{section*.77}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{70}{section*.78}
+\contentsline {paragraph}{Varia\IeC {\c c}\IeC {\~o}es}{70}{section*.79}
+\contentsline {paragraph}{Indicado}{70}{section*.80}
+\contentsline {subsubsection}{Regra do Battlefield UNO [BU]}{71}{section*.81}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{71}{section*.82}
+\contentsline {paragraph}{Varia\IeC {\c c}\IeC {\~a}oes}{71}{section*.83}
+\contentsline {paragraph}{Indicado}{71}{section*.84}
+\contentsline {subsubsection}{Regra do Corte [C]}{71}{section*.85}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{72}{section*.86}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{72}{section*.87}
+\contentsline {paragraph}{Indicado}{75}{section*.88}
+\contentsline {subsubsection}{Regra do Descarte R\IeC {\'a}pido [DR]}{76}{section*.89}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{76}{section*.90}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{76}{section*.91}
+\contentsline {paragraph}{Indicado}{78}{section*.92}
+\contentsline {subsubsection}{Regra das Duplicatas [DD]}{78}{section*.93}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{78}{section*.94}
+\contentsline {paragraph}{Indicado}{79}{section*.95}
+\contentsline {subsubsection}{Primeira Regra da Aritm\IeC {\'e}tica [AA]}{79}{section*.96}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{79}{section*.97}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{80}{section*.98}
+\contentsline {paragraph}{Indicado}{80}{section*.99}
+\contentsline {subsubsection}{Segunda Regra da Aritm\IeC {\'e}tica [AB]}{80}{section*.100}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{81}{section*.101}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{81}{section*.102}
+\contentsline {paragraph}{Indicado}{81}{section*.103}
+\contentsline {subsubsection}{Regra da Satisfa\IeC {\c c}\IeC {\~a}o [SAT]}{81}{section*.104}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{81}{section*.105}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{82}{section*.106}
+\contentsline {paragraph}{Indicado}{82}{section*.107}
+\contentsline {subsubsection}{Regra do Consolo [CON]}{83}{section*.108}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{83}{section*.109}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{83}{section*.110}
+\contentsline {paragraph}{Indicado}{84}{section*.111}
+\contentsline {subsubsection}{Regra da Insatisfa\IeC {\c c}\IeC {\~a}o [INS]}{84}{section*.112}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{84}{section*.113}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{84}{section*.114}
+\contentsline {paragraph}{Indicado}{84}{section*.115}
+\contentsline {subsubsection}{Regra do Duplo Descarte [DED]}{85}{section*.116}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{85}{section*.117}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{86}{section*.118}
+\contentsline {paragraph}{Indicado}{87}{section*.119}
+\contentsline {subsubsection}{Regra do G\IeC {\^e}meo Traidor [GT]}{87}{section*.120}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{87}{section*.121}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{88}{section*.122}
+\contentsline {paragraph}{Indicado}{88}{section*.123}
+\contentsline {subsubsection}{Regra do Passe [P]}{88}{section*.124}
+\contentsline {paragraph}{Primeira Varia\IeC {\c c}\IeC {\~a}o (P1)}{89}{section*.125}
+\contentsline {paragraph}{Segunda Varia\IeC {\c c}\IeC {\~a}o (P2)}{89}{section*.126}
+\contentsline {paragraph}{Terceira Varia\IeC {\c c}\IeC {\~a}o (P3)}{89}{section*.127}
+\contentsline {paragraph}{Quarta Varia\IeC {\c c}\IeC {\~a}o (P4)}{89}{section*.128}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{89}{section*.129}
+\contentsline {paragraph}{As Varia\IeC {\c c}\IeC {\~o}es}{90}{section*.130}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{91}{section*.131}
+\contentsline {paragraph}{Indicado}{91}{section*.132}
+\contentsline {subsubsection}{Regra da Velocidade [V]}{92}{section*.133}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{92}{section*.134}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{92}{section*.135}
+\contentsline {paragraph}{Varia\IeC {\c c}\IeC {\~o}es}{93}{section*.136}
+\contentsline {paragraph}{Indicado}{93}{section*.137}
+\contentsline {subsubsection}{Primeira Regra da Paz [PAA]}{93}{section*.138}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{93}{section*.139}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{94}{section*.140}
+\contentsline {paragraph}{Varia\IeC {\c c}\IeC {\~o}es}{94}{section*.141}
+\contentsline {paragraph}{Indicado}{94}{section*.142}
+\contentsline {subsubsection}{Regra do Inferno [I]}{94}{section*.143}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{94}{section*.144}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{95}{section*.145}
+\contentsline {paragraph}{Indicado}{95}{section*.146}
+\contentsline {subsubsection}{Regra de Chukcki [CHU]}{95}{section*.147}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{95}{section*.148}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{96}{section*.149}
+\contentsline {paragraph}{Indicado}{96}{section*.150}
+\contentsline {subsubsection}{Regra do Batismo [BA]}{96}{section*.151}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{96}{section*.152}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{97}{section*.153}
+\contentsline {paragraph}{Indicado}{97}{section*.154}
+\contentsline {subsubsection}{Regra da Revela\IeC {\c c}\IeC {\~a}o [REV]}{97}{section*.155}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{97}{section*.156}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{98}{section*.157}
+\contentsline {paragraph}{Indicado}{98}{section*.158}
+\contentsline {subsubsection}{Regras do UNO Sexy}{98}{section*.159}
+\contentsline {subsection}{Regras que Modificam ou Inserem Fun\IeC {\c c}\IeC {\~o}es em Cartas}{99}{section*.160}
+\contentsline {subsubsection}{Regra do Sil\IeC {\^e}ncio [S]}{99}{section*.161}
+\contentsline {paragraph}{Varia\IeC {\c c}\IeC {\~o}es}{100}{section*.162}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{101}{section*.163}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{101}{section*.164}
+\contentsline {paragraph}{Indicado}{101}{section*.165}
+\contentsline {subsubsection}{Regra do Carrossel [CAR]}{101}{section*.166}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{102}{section*.167}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{102}{section*.168}
+\contentsline {paragraph}{Indicado}{103}{section*.169}
+\contentsline {subsubsection}{Regra da Troca [T]}{103}{section*.170}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{103}{section*.171}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{104}{section*.172}
+\contentsline {paragraph}{Indicado}{104}{section*.173}
+\contentsline {subsubsection}{Regra do Monte [M]}{105}{section*.174}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{105}{section*.175}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{105}{section*.176}
+\contentsline {paragraph}{Indicado}{105}{section*.177}
+\contentsline {subsubsection}{Regra dos Elogios [E]}{106}{section*.178}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{106}{section*.179}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{106}{section*.180}
+\contentsline {paragraph}{Indicado}{106}{section*.181}
+\contentsline {subsubsection}{Regra Invertida dos Elogios [IE]}{106}{section*.182}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{106}{section*.183}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{107}{section*.184}
+\contentsline {paragraph}{Indicado}{107}{section*.185}
+\contentsline {subsubsection}{Regra das Doa\IeC {\c c}\IeC {\~o}es [DOA]}{107}{section*.186}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{107}{section*.187}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{107}{section*.188}
+\contentsline {paragraph}{Indicado}{108}{section*.189}
+\contentsline {subsubsection}{Segunda Regra da Paz [PAB]}{108}{section*.190}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{108}{section*.191}
+\contentsline {paragraph}{Indicado}{108}{section*.192}
+\contentsline {subsection}{Regras que Modificam o Fim da Partida}{109}{section*.193}
+\contentsline {subsubsection}{Regra do Movimento [MOV]}{109}{section*.194}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{109}{section*.195}
+\contentsline {paragraph}{Indicado}{109}{section*.196}
+\contentsline {subsection}{Regras que Modificam ou Inserem Penalidades}{109}{section*.197}
+\contentsline {subsubsection}{Regra do Desafio Polivalente [DP]}{109}{section*.198}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{110}{section*.199}
+\contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{110}{section*.200}
+\contentsline {paragraph}{Indicado}{110}{section*.201}
+\contentsline {subsubsection}{Regra de Dori [MEM]}{111}{section*.202}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{111}{section*.203}
+\contentsline {paragraph}{Indicado}{111}{section*.204}
+\contentsline {subsubsection}{Regra da Prescri\IeC {\c c}\IeC {\~a}o [PRE]}{111}{section*.205}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{111}{section*.206}
+\contentsline {paragraph}{Indicado}{112}{section*.207}
+\contentsline {subsubsection}{Regra do Orgulho [ORG]}{112}{section*.208}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{112}{section*.209}
+\contentsline {paragraph}{Indicado}{112}{section*.210}
+\contentsline {subsection}{Estrat\IeC {\'e}gias Espec\IeC {\'\i }ficas}{112}{section*.211}
+\contentsline {subsubsection}{Grupo Surpresa}{112}{section*.212}
+\contentsline {subsubsection}{Valoriza\IeC {\c c}\IeC {\~a}o das Armas}{113}{section*.213}
+\contentsline {subsubsection}{Roubo de Cena}{114}{section*.214}
+\contentsline {subsubsection}{Absten\IeC {\c c}\IeC {\~a}o}{114}{section*.215}
+\contentsline {subsubsection}{B\IeC {\'u}ssola}{114}{section*.216}
+\contentsline {subsection}{Varia\IeC {\c c}\IeC {\~o}es Prontas}{115}{section*.217}
+\contentsline {subsubsection}{Escolhas Populares}{115}{section*.218}
+\contentsline {subsubsection}{Amigos}{116}{section*.219}
+\contentsline {subsubsection}{Poker Face}{116}{section*.220}
+\contentsline {subsubsection}{As Estrat\IeC {\'e}gias do UNO}{116}{section*.221}
+\contentsline {subsubsection}{Sala de Espera}{117}{section*.222}
+\contentsline {section}{Ap\IeC {\^e}ndices}{118}{section*.223}
+\contentsline {subsection}{Resumo das Estrat\IeC {\'e}gias do Jogo Oficial 11211}{118}{section*.224}
+\contentsline {subsection}{Arranjo das Cartas na M\IeC {\~a}o}{118}{section*.225}
+\contentsline {subsection}{Resumo das Regras Alternativas}{119}{section*.226}
+\contentsline {subsection}{Ensinando UNO de forma r\IeC {\'a}pida}{123}{section*.227}
+\contentsline {subsection}{Paci\IeC {\^e}ncia UNO}{124}{section*.228}

@@ -1,0 +1,88 @@
+\documentclass[a5paper,10pt]{book}
+\usepackage[brazilian]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{indentfirst} % Para 'indentar' o primeiro parágrafo de cada seção
+\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm,headsep=5mm,footskip=5mm} % 'headsep' é a separação entre o cabeçalho e o texto e o 'footskip' é a distância entre as notas de rodapé e o texto.
+\pagestyle{plain}
+% \usepackage[normalem]{ulem} -- Pacote para sublinhar texto.
+% o \begin{abstract} -- ambiente 'resumo'
+% \newline \newpage \linebreak
+% ambientes: flushright, flushleft, center, description, itemize, quotation, quote, enumerate
+\renewcommand{\baselinestretch}{1.25}
+\setcounter{secnumdepth}{0}
+% \maketitle \tableofcontets
+%
+% para colar uma figura:
+%
+% \begin{figure}[!htb]
+% \centering
+% \fbox{\includegraphics[scale=1]{FIGURA.jpeg}}
+% \caption{descriç}
+% \label{fig1}
+% \end{figure}
+% 
+% O h significa here, t top, b bottom e o ! dá prioridade ao aparecimento h
+%
+% para tabelas
+%
+% \begin{tabular}{|c|l|r|}
+% ítem 1x1 & ítem 1x2 & ítem 1x3 \\
+% ítem 2x1 & ítem 2x2 & ítem 2x3 \\
+% end{tabular}
+%
+% O c, o l e o r definem o alinhamento da coluna. O & separa colunas na mesma linha e o \\ vai pra próxima linha
+% 
+\title{Guia Definitivo de Customização do UNO}
+\author{Peterson Silva}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+%\vspace{1cm}
+
+%\begin{center}
+%Organização: Peterson Silva
+
+%Colaboradores:
+%\end{center}
+
+\tableofcontents
+
+\include{intro}
+
+\include{oficiais}
+
+\include{ambiguidade}
+
+\include{estrategias1}
+
+\include{alternativas}
+
+\include{appendix}
+
+\newpage
+
+\vspace{5cm}
+
+\begin{center}
+\begin{small}
+Este livro tem como objetivo ser o documento definitivo da estratégia e das variações do UNO. Se você não concorda com algo que está aqui, se encontrou algum erro de digitação, ortografia, gramática ou organização, se você joga UNO com uma regra diferente não listada aqui, se encontrou alguma contradição ou tem simplesmente ideias para torná-lo mais organizado e quer contribuir, mande um e-mail para \\
+
+\href{mailto:peterson.235@gmail.com}{peterson.235@gmail.com} \\
+
+ou visite \\
+
+\url{http://petercast.net/projetos/projects/show/uno} \\
+
+para saber como ajudar. Você receberá créditos por sua contribuição, é claro, e ajudará esta obra coletiva a ganhar ainda mais credibilidade e confiabilidade.
+\end{small}
+\end{center}
+
+\end{document}
