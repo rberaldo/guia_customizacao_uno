@@ -1,0 +1,13 @@
+O cenário é conhecido: você vai jogar UNO com um grupo diferente de pessoas, não aquelas com as quais você está acostumado a jogar. Então você, como quem não quer nada, pergunta: “como é mesmo que se joga?” e pronto, a discórdia foi semeada: você só vai poder começar a jogar depois de 15 minutos de discordâncias quanto a regras oficiais e alternativas. Este PDF é o guia definitivo pra você:
+
+* Entender quais, afinal, são as regras oficiais
+* Entender as diferentes estratégias do jogo e
+* Entender as variações do jogo e o quanto elas influenciam a jogabilidade, a dinâmica e as próprias estratégias no jogo.
+
+Site do projeto: http://petercast.net/projetos/projects/show/uno
+
+Como colaborar: http://petercast.net/projetos/boards/2/topics/show/1
+
+Este guia está licenciado sob Domínio Público: faça o que quiser com ele.
+
+Para compilar o código LaTeX disponível no Github, apenas entre no diretório e compile o guia.tex com o comando pdflatex (ou do jeito que preferir)
