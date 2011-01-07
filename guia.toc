@@ -80,7 +80,7 @@
 \contentsline {paragraph}{Indicado}{70}{section*.80}
 \contentsline {subsubsection}{Regra do Battlefield UNO [BU]}{71}{section*.81}
 \contentsline {paragraph}{Consequ\IeC {\^e}ncias}{71}{section*.82}
-\contentsline {paragraph}{Varia\IeC {\c c}\IeC {\~a}oes}{71}{section*.83}
+\contentsline {paragraph}{Varia\IeC {\c c}\IeC {\~o}es}{71}{section*.83}
 \contentsline {paragraph}{Indicado}{71}{section*.84}
 \contentsline {subsubsection}{Regra do Corte [C]}{71}{section*.85}
 \contentsline {paragraph}{Consequ\IeC {\^e}ncias}{72}{section*.86}
