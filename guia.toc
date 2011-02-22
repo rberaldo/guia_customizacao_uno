@@ -170,7 +170,7 @@
 \contentsline {subsubsection}{Regra da Troca [T]}{103}{section*.170}
 \contentsline {paragraph}{Consequ\IeC {\^e}ncias}{103}{section*.171}
 \contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{104}{section*.172}
-\contentsline {paragraph}{Indicado}{104}{section*.173}
+\contentsline {paragraph}{Indicado}{105}{section*.173}
 \contentsline {subsubsection}{Regra do Monte [M]}{105}{section*.174}
 \contentsline {paragraph}{Consequ\IeC {\^e}ncias}{105}{section*.175}
 \contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{105}{section*.176}
@@ -180,7 +180,7 @@
 \contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{106}{section*.180}
 \contentsline {paragraph}{Indicado}{106}{section*.181}
 \contentsline {subsubsection}{Regra Invertida dos Elogios [IE]}{106}{section*.182}
-\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{106}{section*.183}
+\contentsline {paragraph}{Consequ\IeC {\^e}ncias}{107}{section*.183}
 \contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{107}{section*.184}
 \contentsline {paragraph}{Indicado}{107}{section*.185}
 \contentsline {subsubsection}{Regra das Doa\IeC {\c c}\IeC {\~o}es [DOA]}{107}{section*.186}
@@ -189,16 +189,16 @@
 \contentsline {paragraph}{Indicado}{108}{section*.189}
 \contentsline {subsubsection}{Segunda Regra da Paz [PAB]}{108}{section*.190}
 \contentsline {paragraph}{Consequ\IeC {\^e}ncias}{108}{section*.191}
-\contentsline {paragraph}{Indicado}{108}{section*.192}
+\contentsline {paragraph}{Indicado}{109}{section*.192}
 \contentsline {subsection}{Regras que Modificam o Fim da Partida}{109}{section*.193}
 \contentsline {subsubsection}{Regra do Movimento [MOV]}{109}{section*.194}
 \contentsline {paragraph}{Consequ\IeC {\^e}ncias}{109}{section*.195}
 \contentsline {paragraph}{Indicado}{109}{section*.196}
 \contentsline {subsection}{Regras que Modificam ou Inserem Penalidades}{109}{section*.197}
-\contentsline {subsubsection}{Regra do Desafio Polivalente [DP]}{109}{section*.198}
+\contentsline {subsubsection}{Regra do Desafio Polivalente [DP]}{110}{section*.198}
 \contentsline {paragraph}{Consequ\IeC {\^e}ncias}{110}{section*.199}
 \contentsline {paragraph}{Poss\IeC {\'\i }veis Contradi\IeC {\c c}\IeC {\~o}es e Conex\IeC {\~o}es}{110}{section*.200}
-\contentsline {paragraph}{Indicado}{110}{section*.201}
+\contentsline {paragraph}{Indicado}{111}{section*.201}
 \contentsline {subsubsection}{Regra de Dori [MEM]}{111}{section*.202}
 \contentsline {paragraph}{Consequ\IeC {\^e}ncias}{111}{section*.203}
 \contentsline {paragraph}{Indicado}{111}{section*.204}
@@ -209,16 +209,16 @@
 \contentsline {paragraph}{Consequ\IeC {\^e}ncias}{112}{section*.209}
 \contentsline {paragraph}{Indicado}{112}{section*.210}
 \contentsline {subsection}{Estrat\IeC {\'e}gias Espec\IeC {\'\i }ficas}{112}{section*.211}
-\contentsline {subsubsection}{Grupo Surpresa}{112}{section*.212}
+\contentsline {subsubsection}{Grupo Surpresa}{113}{section*.212}
 \contentsline {subsubsection}{Valoriza\IeC {\c c}\IeC {\~a}o das Armas}{113}{section*.213}
 \contentsline {subsubsection}{Roubo de Cena}{114}{section*.214}
 \contentsline {subsubsection}{Absten\IeC {\c c}\IeC {\~a}o}{114}{section*.215}
-\contentsline {subsubsection}{B\IeC {\'u}ssola}{114}{section*.216}
+\contentsline {subsubsection}{B\IeC {\'u}ssola}{115}{section*.216}
 \contentsline {subsection}{Varia\IeC {\c c}\IeC {\~o}es Prontas}{115}{section*.217}
 \contentsline {subsubsection}{Escolhas Populares}{115}{section*.218}
 \contentsline {subsubsection}{Amigos}{116}{section*.219}
 \contentsline {subsubsection}{Poker Face}{116}{section*.220}
-\contentsline {subsubsection}{As Estrat\IeC {\'e}gias do UNO}{116}{section*.221}
+\contentsline {subsubsection}{As Estrat\IeC {\'e}gias do UNO}{117}{section*.221}
 \contentsline {subsubsection}{Sala de Espera}{117}{section*.222}
 \contentsline {section}{Ap\IeC {\^e}ndices}{118}{section*.223}
 \contentsline {subsection}{Resumo das Estrat\IeC {\'e}gias do Jogo Oficial 11211}{118}{section*.224}
