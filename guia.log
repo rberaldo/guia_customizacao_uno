@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.9.9)  6 JAN 2011 23:23
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.9.9)  22 FEB 2011 00:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -442,24 +442,25 @@ File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
 (/usr/share/texmf-texlive/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 ) (./guia.aux
-(./intro.aux) (./oficiais.aux) (./ambiguidade.aux) (./estrategias1.aux)
+(./intro.aux) (./oficiais.aux) (./ambiguidade.aux)
+No file estrategias1.aux.
 (./alternativas.aux) (./appendix.aux))
 \openout1 = `guia.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 (/usr/share/texmf/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -519,7 +520,7 @@ driver: pdftex
 \@twosidetrue \@mparswitchtrue 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
-Package hyperref Info: Link coloring OFF on input line 44.
+Package hyperref Info: Link coloring OFF on input line 20.
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
@@ -528,8 +529,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count110
 )
-LaTeX Info: Redefining \ref on input line 44.
-LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
  (./guia.out)
 (./guia.out)
 \@outlinefile=\write3
@@ -537,24 +538,24 @@ LaTeX Info: Redefining \pageref on input line 44.
 
 \AtBeginShipoutBox=\box31
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 47.
+(Font)              <12> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 47.
+(Font)              <8> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 47.
+(Font)              <6> on input line 23.
  [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 49.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 25.
 
 (/usr/share/texmf-texlive/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 49.
+(Font)              <7> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 49.
+(Font)              <5> on input line 25.
 
 <dp.png, id=127, 88.33pt x 31.11626pt>
 File: dp.png Graphic file (type png)
@@ -596,9 +597,9 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 32.
  [14] [15] [16] [17]
 [18]) [19]
-\openout2 = `estrategias1.aux'.
+\openout2 = `estrategias.aux'.
 
- (./estrategias1.tex
+ (./estrategias.tex
 Overfull \hbox (3.18071pt too wide) in paragraph at lines 5--6
 \T1/cmr/m/n/10 olhada em es-tra-té-gias ge-rais, que são im-por-tan-tes guias d
 e ação. Quando
@@ -763,35 +764,35 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [122]
 [123] [124]) [125]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 103.
+(Font)              <9> on input line 79.
  [126
 
 ] (./guia.aux (./intro.aux) (./oficiais.aux)
-(./ambiguidade.aux) (./estrategias1.aux) (./alternativas.aux) (./appendix.aux))
- ) 
+(./ambiguidade.aux) (./estrategias.aux) (./alternativas.aux) (./appendix.aux)) 
+) 
 Here is how much of TeX's memory you used:
- 5825 strings out of 493848
- 79789 string characters out of 1152824
- 171632 words of memory out of 3000000
- 8574 multiletter control sequences out of 15000+50000
+ 5823 strings out of 493848
+ 79747 string characters out of 1152824
+ 171303 words of memory out of 3000000
+ 8573 multiletter control sequences out of 15000+50000
  19947 words of font info for 44 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 38i,8n,38p,1240b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-
-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx10
-00.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/t
-exmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/pub
-lic/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc120
-0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/te
-xmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/publ
-ic/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900
-.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/tex
-mf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/publi
-c/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.
-pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb></usr/share/texm
-f/fonts/type1/public/cm-super/sftt1000.pfb>
+ 38i,8n,38p,1239b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx100
+0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/te
+xmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/publ
+ic/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1200
+.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/publi
+c/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public
+/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.p
+fb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb></usr/share/texmf
+/fonts/type1/public/cm-super/sftt1000.pfb>
 Output written on guia.pdf (126 pages, 670891 bytes).
 PDF statistics:
  1087 PDF objects out of 1200 (max. 8388607)
