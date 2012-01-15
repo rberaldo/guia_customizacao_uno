@@ -1,4 +1,4 @@
-\documentclass[a5paper,10pt]{book}
+\documentclass[a5paper,10pt,final,openright]{memoir}
 \usepackage[brazilian]{babel}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -7,34 +7,40 @@
 \usepackage{longtable}
 \usepackage{hyperref}
 \usepackage{indentfirst}
-\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm,headsep=5mm,footskip=5mm}
+\usepackage{wrapfig}
+\usepackage{libertine}
+
+\geometry{twoside,tmargin=2cm,bmargin=2cm,inner=3cm,outer=1.75cm,headsep=5mm,footskip=5mm}
 \pagestyle{plain}
 
-\renewcommand{\baselinestretch}{1.25}
 \setcounter{secnumdepth}{0}
+
+\chapterstyle{hangnum}
  
 \title{Guia Definitivo de Customização do UNO}
-\author{Peterson Silva}
+\author{Peterson Silva (\url{http://petercast.net})}
 \date{}
 
 \begin{document}
 
+\newgeometry{tmargin=0.5cm,lmargin=2cm,rmargin=2cm}
+
 \maketitle
 
 \begin{center}
-\url{http://petercast.net}
-\end{center}
-
-\vfill
-
-\begin{center}
-Esta obra é de \textbf{Domínio Público}.
+\textbf{Versão 1.2.1: Mais de 40 regras alternativas e variações!}
 \end{center}
 
 \begin{figure}[!h]
 \centering
-\fbox{\includegraphics[scale=1]{dp.png}}
+\fbox{\includegraphics[scale=0.2]{uno-front.jpg}}
 \end{figure}
+
+\thispagestyle{empty}
+
+\begin{center}
+Esta obra é de \textbf{Domínio Público}, sem fins lucrativos. Não é patrocinada, apoiada ou está de qualquer forma relacionada aos detentores dos direitos da marca \textit{UNO}. Foto por \textit{Error.X.Effect}.
+\end{center}
 
 \begin{center}
 Para mais informações, visitar: \\
@@ -49,6 +55,10 @@ Para mais informações, visitar: \\
 
 %Colaboradores:
 %\end{center}
+
+\newpage
+
+\restoregeometry
 
 \tableofcontents
 
@@ -66,7 +76,7 @@ Para mais informações, visitar: \\
 
 \newpage
 
-\vspace{5cm}
+\newgeometry{lmargin=2cm,rmargin=2cm}
 
 \begin{center}
 \begin{small}
@@ -78,8 +88,10 @@ ou visite \\
 
 \url{http://petercast.net/projetos/projects/show/uno} \\
 
-para saber como ajudar. Você receberá créditos por sua contribuição, é claro, e ajudará esta obra coletiva a ganhar ainda mais credibilidade e confiabilidade.
+para saber como ajudar. Você receberá os créditos por sua contribuição, é claro, e ajudará esta obra a ganhar ainda mais credibilidade e confiabilidade.
 \end{small}
 \end{center}
+
+\restoregeometry
 
 \end{document}

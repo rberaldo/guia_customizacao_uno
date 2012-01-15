@@ -1,37 +1,330 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.9.9)  22 FEB 2011 01:19
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.11.28)  15 JAN 2012 20:09
 entering extended mode
- restricted \write18 enabled.
  %&-line parsing enabled.
 **guia.tex
 (./guia.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
-ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
-9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
-skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
-orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
-, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
-rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
-(/usr/share/texmf-texlive/tex/latex/base/book.cls
-Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texmf-texlive/tex/latex/base/bk10.clo
-File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+yphenation, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppers
+orbian, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, port
+uguese, loaded.
+(/usr/share/texmf-texlive/tex/latex/memoir/memoir.cls
+Document Class: memoir 2009/09/21 v1.61803398b configurable book, report, artic
+le document class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count79
+\c@@memmarkcntra=\count80
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
 )
-\c@part=\count79
-\c@chapter=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+Class memoir Info: An `ifetex' package is being emulated on input line 251.
+
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
 )
-(/var/lib/texmf/tex/generic/babel/babel.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+(/usr/share/texmf-texlive/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count81
+)
+(/usr/share/texmf-texlive/tex/latex/memoir/mem10.clo
+File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\headwidth=\skip55
+\c@storedpagenumber=\count82
+\memPD=\dimen102
+\m@mabparskip=\skip56
+\thanksmarkwidth=\skip57
+\thanksmarksep=\skip58
+\droptitle=\skip59
+\c@book=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\beforechapskip=\skip60
+\midchapskip=\skip61
+\afterchapskip=\skip62
+\chapindent=\skip63
+\bottomsectionskip=\skip64
+\secindent=\skip65
+\beforesecskip=\skip66
+\aftersecskip=\skip67
+\subsecindent=\skip68
+\beforesubsecskip=\skip69
+\aftersubsecskip=\skip70
+\subsubsecindent=\skip71
+\beforesubsubsecskip=\skip72
+\aftersubsubsecskip=\skip73
+\paraindent=\skip74
+\beforeparaskip=\skip75
+\afterparaskip=\skip76
+\subparaindent=\skip77
+\beforesubparaskip=\skip78
+\aftersubparaskip=\skip79
+\pfbreakskip=\skip80
+\c@@ppsavesec=\count91
+\c@@ppsaveapp=\count92
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip81
+\topsepi=\skip82
+\itemsepi=\skip83
+\parsepii=\skip84
+\topsepii=\skip85
+\topsepiii=\skip86
+\itemsepii=\skip87
+\itemsepiii=\skip88
+\partopsepii=\skip89
+\partopsepiii=\skip90
+\m@msavetopsep=\skip91
+\m@msavepartopsep=\skip92
+\@enLab=\toks14
+\abstitleskip=\skip93
+\absleftindent=\skip94
+\abs@leftindent=\dimen105
+\absrightindent=\skip95
+\absparindent=\skip96
+\absparsep=\skip97
+\c@vslineno=\count93
+\c@poemline=\count94
+\c@modulo@vs=\count95
+\c@memfvsline=\count96
+\vleftskip=\skip98
+\vrightskip=\skip99
+\stanzaskip=\skip100
+\versewidth=\skip101
+\vgap=\skip102
+\vindent=\skip103
+\vleftmargin=\dimen106
+\c@verse=\count97
+\c@chrsinstr=\count98
+\beforepoemtitleskip=\skip104
+\afterpoemtitleskip=\skip105
+\c@poem=\count99
+\beforePoemTitleskip=\skip106
+\midPoemTitleskip=\skip107
+\afterPoemTitleskip=\skip108
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip109
+\backup@length=\skip110
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count100
+\TX@ftn=\toks16
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count101
+\@cmidlb=\count102
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count103
+\@lastruleclass=\count104
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip111
+\ctabrightskip=\skip112
+\abovecolumnspenalty=\count105
+\@linestogo=\count106
+\@cellstogo=\count107
+\@cellsincolumn=\count108
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count109
+\@contcwidth=\skip113
+\@contindw=\skip114
+\abovecaptionskip=\skip115
+\belowcaptionskip=\skip116
+\subfloattopskip=\skip117
+\subfloatcapskip=\skip118
+\subfloatcaptopadj=\skip119
+\subfloatbottomskip=\skip120
+\subfloatlabelskip=\skip121
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count110
+\m@mscap@capbox=\box26
+\m@mscap@fbox=\box27
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip122
+\afterepigraphskip=\skip123
+\epigraphwidth=\skip124
+\epigraphrule=\skip125
+LaTeX Info: Redefining \em on input line 7000.
+LaTeX Info: Redefining \emph on input line 7008.
+\tocentryskip=\skip126
+\tocbaseline=\skip127
+\cftparskip=\skip128
+\cftbeforebookskip=\skip129
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip130
+\cftpartindent=\skip131
+\cftpartnumwidth=\skip132
+\cftbeforechapterskip=\skip133
+\cftchapterindent=\skip134
+\cftchapternumwidth=\skip135
+\cftbeforesectionskip=\skip136
+\cftsectionindent=\skip137
+\cftsectionnumwidth=\skip138
+\cftbeforesubsectionskip=\skip139
+\cftsubsectionindent=\skip140
+\cftsubsectionnumwidth=\skip141
+\cftbeforesubsubsectionskip=\skip142
+\cftsubsubsectionindent=\skip143
+\cftsubsubsectionnumwidth=\skip144
+\cftbeforeparagraphskip=\skip145
+\cftparagraphindent=\skip146
+\cftparagraphnumwidth=\skip147
+\cftbeforesubparagraphskip=\skip148
+\cftsubparagraphindent=\skip149
+\cftsubparagraphnumwidth=\skip150
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count111
+\bibindent=\dimen139
+\bibitemsep=\skip151
+\indexcolsep=\skip152
+\indexrule=\skip153
+\indexmarkstyle=\toks18
+\@indexbox=\insert233
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip154
+\sideins=\insert232
+\sidebartopsep=\skip155
+\sidebarhsep=\skip156
+\sidebarvsep=\skip157
+\sidebarwidth=\skip158
+\footmarkwidth=\skip159
+\footmarksep=\skip160
+\footparindent=\skip161
+\footinsdim=\skip162
+\footinsv@r=\insert231
+\@mpfootinsv@r=\insert230
+\m@m@k=\count112
+\m@m@h=\dimen142
+\m@mipn@skip=\skip163
+\c@pagenote=\count113
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count114
+\verbatim@in@stream=\read1
+\verbatimindent=\skip164
+\verbatim@out=\write3
+\bvboxsep=\skip165
+\c@memfbvline=\count115
+\c@bvlinectr=\count116
+\bvnumlength=\skip166
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count117
+LaTeX Info: Redefining \: on input line 10864.
+LaTeX Info: Redefining \! on input line 10866.
+\c@ism@mctr=\count118
+\c@xsm@mctr=\count119
+\c@csm@mctr=\count120
+\c@ksm@mctr=\count121
+\c@xksm@mctr=\count122
+\c@cksm@mctr=\count123
+\c@msm@mctr=\count124
+\c@xmsm@mctr=\count125
+\c@cmsm@mctr=\count126
+\c@bsm@mctr=\count127
+\c@workm@mctr=\count128
+\c@sheetsequence=\count129
+\c@lastsheet=\count130
+\c@lastpage=\count131
+\c@figure=\count132
+\c@lofdepth=\count133
+\cftbeforefigureskip=\skip167
+\cftfigureindent=\skip168
+\cftfigurenumwidth=\skip169
+\c@table=\count134
+\c@lotdepth=\count135
+\cftbeforetableskip=\skip170
+\cfttableindent=\skip171
+\cfttablenumwidth=\skip172
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package array [2008/07/23] emulated by memoir.
+Package booktabs [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package dcolumn [2008/07/23] emulated by memoir.
+Package delarray [2008/07/23] emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package ifetex [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package tabularx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+(/usr/share/texmf-texlive/tex/latex/memoir/mempatch.sty
+Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
+))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
 Package: babel 2008/07/06 v3.8l The Babel package
 
 (/usr/share/texmf-texlive/tex/generic/babel/portuges.ldf
@@ -39,8 +332,8 @@ Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
 (/usr/share/texmf-texlive/tex/generic/babel/babel.def
 File: babel.def 2008/07/06 v3.8l Babel common definitions
-\babel@savecnt=\count88
-\U@D=\dimen103
+\babel@savecnt=\count136
+\U@D=\dimen147
 )
 \l@brazilian = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
@@ -54,8 +347,8 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
 (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
 
 (/usr/share/texmf-texlive/tex/latex/base/utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
@@ -274,7 +567,7 @@ Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks24
 )
 (/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
@@ -289,56 +582,53 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 
 (/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
-\Gread@gobject=\count89
+\Gread@gobject=\count137
 ))
-\Gin@req@height=\dimen104
-\Gin@req@width=\dimen105
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
 )
 (/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
-Package: geometry 2008/12/21 v4.2 Page Geometry
+Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in pdf mode detected.
-)
 (/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count90
-\Gm@cntv=\count91
-\c@Gm@tempcnt=\count92
-\Gm@bindingoffset=\dimen106
-\Gm@wd@mp=\dimen107
-\Gm@odd@mp=\dimen108
-\Gm@even@mp=\dimen109
-\Gm@dimlist=\toks17
+\Gm@cnth=\count138
+\Gm@cntv=\count139
+\c@Gm@tempcnt=\count140
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks25
 
 (/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
 (/usr/share/texmf-texlive/tex/latex/tools/longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip43
-\LTright=\skip44
-\LTpre=\skip45
-\LTpost=\skip46
-\LTchunksize=\count93
-\LTcapwidth=\dimen110
-\LT@head=\box26
-\LT@firsthead=\box27
-\LT@foot=\box28
-\LT@lastfoot=\box29
-\LT@cols=\count94
-\LT@rows=\count95
-\c@LT@tables=\count96
-\c@LT@chunks=\count97
-\LT@p@ftn=\toks18
+\LTleft=\skip173
+\LTright=\skip174
+\LTpre=\skip175
+\LTpost=\skip176
+\LTchunksize=\count141
+\LTcapwidth=\dimen158
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count142
+\LT@rows=\count143
+\c@LT@tables=\count144
+\c@LT@chunks=\count145
+\LT@p@ftn=\toks26
 )
 (/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
 
-(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
-)
 (/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
 Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
 O)
@@ -346,9 +636,9 @@ O)
 (/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
 Package: xcolor-patch 2009/10/02 xcolor patch
 ))
-\@linkdim=\dimen111
-\Hy@linkcounter=\count98
-\Hy@pagecounter=\count99
+\@linkdim=\dimen159
+\Hy@linkcounter=\count146
+\Hy@pagecounter=\count147
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
@@ -376,6 +666,7 @@ Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
 Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
 t (HO)
 ))
+Package hyperref Info: Option `final' set `true' on input line 2864.
 Package hyperref Info: Hyper figures OFF on input line 2975.
 Package hyperref Info: Link nesting OFF on input line 2980.
 Package hyperref Info: Hyper index ON on input line 2983.
@@ -403,10 +694,6 @@ Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
 Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
  (HO)
 
-(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
 (/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
 )
@@ -415,10 +702,10 @@ Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 )))
-\Fld@menulength=\count100
-\Field@Width=\dimen112
-\Fld@charsize=\dimen113
-\Field@toks=\toks19
+\Fld@menulength=\count148
+\Field@Width=\dimen160
+\Fld@charsize=\dimen161
+\Field@toks=\toks27
 Package hyperref Info: Hyper figures OFF on input line 4377.
 Package hyperref Info: Link nesting OFF on input line 4382.
 Package hyperref Info: Hyper index ON on input line 4385.
@@ -430,371 +717,730 @@ Package hyperref Info: PDF/A mode OFF on input line 4407.
 (/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 )
-\Hy@abspage=\count101
-\c@Item=\count102
-\c@Hfootnote=\count103
+\Hy@abspage=\count149
+\c@Item=\count150
+)
+(/usr/share/texmf-texlive/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2009/02/06 v1.12 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count151
 )
 *hyperref using default driver hpdftex*
 (/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
-\Fld@listcount=\count104
+\Fld@listcount=\count152
 )
 (/usr/share/texmf-texlive/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-) (./guia.aux
+)
+(/usr/share/texmf-texlive/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen162
+\WF@size=\dimen163
+\c@WF@wrappedlines=\count153
+\WF@box=\box32
+\WF@everypar=\toks28
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texmf-texlive/tex/latex/libertine/libertine.sty
+Package: libertine 2009/05/22a - 4.5.1a -LaTeX: Font libertine - (License GPL) 
+Michael Niedermair
+
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count154
+\calc@Bcount=\count155
+\calc@Adimen=\dimen164
+\calc@Bdimen=\dimen165
+\calc@Askip=\skip177
+\calc@Bskip=\skip178
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count156
+\calc@Cskip=\skip179
+)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf-texlive/tex/latex/tools/xspace.sty
+Package: xspace 2006/05/08 v1.12 Space after command names (DPC,MH)
+)
+(/usr/share/texmf-texlive/tex/latex/libertine/fxl.inc)
+(/usr/share/texmf-texlive/tex/latex/libertine/fxb.inc))
+LaTeX Font Info:    Try loading font information for T1+fxl on input line 18.
+
+(/usr/share/texmf-texlive/tex/latex/libertine/t1fxl.fd
+File: t1fxl.fd 2009/05/22 scaled font definitions for libertine T1/fxl (Nm).
+)
+LaTeX Font Info:    Font shape `T1/fxl/m/n' will be
+(Font)              scaled to size 10.0pt on input line 18.
+LaTeX Font Info:    Font shape `T1/fxl/m/n' will be
+(Font)              scaled to size 20.74pt on input line 18.
+LaTeX Font Info:    Font shape `T1/fxl/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/fxl/b/n' tried instead on input line 18.
+LaTeX Font Info:    Font shape `T1/fxl/b/n' will be
+(Font)              scaled to size 20.74pt on input line 18.
+ (./guia.aux
 (./intro.aux) (./oficiais.aux) (./ambiguidade.aux) (./estrategias.aux)
 (./alternativas.aux) (./appendix.aux))
 \openout1 = `guia.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
-(/usr/share/texmf/tex/context/base/supp-pdf.mkii
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
-\scratchdimen=\dimen114
-\scratchbox=\box30
-\nofMPsegments=\count106
-\nofMParguments=\count107
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count108
-\MPscratchDim=\dimen115
-\MPnumerator=\count109
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count157
+\scratchdimen=\dimen166
+\scratchbox=\box33
+\nofMPsegments=\count158
+\nofMParguments=\count159
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count160
+\MPscratchDim=\dimen167
+\MPnumerator=\count161
+\everyMPtoPDFconversion=\toks30
 )
-*geometry auto-detecting driver*
-*geometry detected driver: pdftex*
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 285.95021pt, 49.79231pt)
+* v-part:(T,H,B)=(56.9055pt, 483.69687pt, 56.9055pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=285.95021pt
+* \textheight=483.69687pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-22.47768pt
+* \topmargin=-41.59085pt
+* \headheight=12.0pt
+* \headsep=14.22636pt
+* \topskip=10.0pt
+* \footskip=14.22636pt
+* \marginparwidth=51.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package geometry Warning: The marginal notes would fall off the page.
-     Add 1.0945pt and more to the right margin.
-
--------------------- Geometry parameters
-paper: a5paper
-landscape: --
-twocolumn: --
-twoside: true
-asymmetric: --
-h-parts: 56.9055pt, 307.28978pt, 56.9055pt
-v-parts: 56.9055pt, 483.69687pt, 56.9055pt
-hmarginratio: --
-vmarginratio: --
-lines: --
-heightrounded: --
-bindingoffset: 0.0pt
-truedimen: --
-includehead: --
-includefoot: --
-includemp: --
-driver: pdftex
--------------------- Page layout dimensions and switches
-\paperwidth  421.10078pt
-\paperheight 597.50787pt
-\textwidth  307.28978pt
-\textheight 483.69687pt
-\oddsidemargin  -15.36449pt
-\evensidemargin -15.36449pt
-\topmargin  -41.59085pt
-\headheight 12.0pt
-\headsep    14.22636pt
-\footskip   14.22636pt
-\marginparwidth 51.0pt
-\marginparsep   7.0pt
-\columnsep  10.0pt
-\skip\footins  9.0pt plus 4.0pt minus 2.0pt
-\hoffset 0.0pt
-\voffset 0.0pt
-\mag 1000
-\@twosidetrue \@mparswitchtrue 
-(1in=72.27pt, 1cm=28.45pt)
------------------------
-Package hyperref Info: Link coloring OFF on input line 20.
+Package hyperref Info: Link coloring OFF on input line 24.
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count110
+\c@section@level=\count162
 )
-LaTeX Info: Redefining \ref on input line 20.
-LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
  (./guia.out)
 (./guia.out)
-\@outlinefile=\write3
-\openout3 = `guia.out'.
+\@outlinefile=\write4
+\openout4 = `guia.out'.
 
-\AtBeginShipoutBox=\box31
+\AtBeginShipoutBox=\box34
+
+Redoing nameref's sectioning
+Redoing nameref's label
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 307.28978pt, 56.9055pt)
+* v-part:(T,H,B)=(14.22636pt, 511.57985pt, 71.70166pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=307.28978pt
+* \textheight=511.57985pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-84.26999pt
+* \headheight=12.0pt
+* \headsep=14.22636pt
+* \topskip=10.0pt
+* \footskip=14.22636pt
+* \marginparwidth=51.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `T1/fxl/m/n' will be
+(Font)              scaled to size 14.4pt on input line 28.
+LaTeX Font Info:    Font shape `T1/fxl/m/n' will be
+(Font)              scaled to size 10.95pt on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 23.
+(Font)              <10.95> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 23.
+(Font)              <8> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 23.
- [1
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 25.
-
+(Font)              <6> on input line 28.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 28.
 (/usr/share/texmf-texlive/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
+LaTeX Font Info:    Font shape `T1/fxl/bx/n' in size <10> not available
+(Font)              Font shape `T1/fxl/b/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `T1/fxl/b/n' will be
+(Font)              scaled to size 10.0pt on input line 31.
+
+<uno-front.jpg, id=132, 1027.84pt x 770.88pt>
+File: uno-front.jpg Graphic file (type jpg)
+ <use uno-front.jpg>
+LaTeX Font Info:    Font shape `T1/fxl/m/it' will be
+(Font)              scaled to size 10.0pt on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 25.
+(Font)              <7> on input line 48.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 25.
+(Font)              <5> on input line 48.
+ [1
 
-<dp.png, id=127, 88.33pt x 31.11626pt>
-File: dp.png Graphic file (type png)
- <use dp.png> [2 <./dp.png>] (./guia.toc
-[3
 
-])
-\tf@toc=\write4
-\openout4 = `guia.toc'.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./uno-front.jpg>] (./guia.
+toc
+[2
 
- [4]
+]) [3]
 \openout2 = `intro.aux'.
 
- (./intro.tex
-Underfull \vbox (badness 1303) has occurred while \output is active []
+ (./intro.tex [4
 
- [5
 
-])
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5])
 [6]
 \openout2 = `oficiais.aux'.
 
- (./oficiais.tex [7
+ (./oficiais.tex
+LaTeX Font Info:    Font shape `T1/fxl/m/n' will be
+(Font)              scaled to size 7.0pt on input line 4.
+LaTeX Font Info:    Font shape `T1/fxl/m/n' will be
+(Font)              scaled to size 8.0pt on input line 4.
+LaTeX Font Info:    Font shape `T1/fxl/m/n' will be
+(Font)              scaled to size 6.0pt on input line 4.
+LaTeX Font Info:    Font shape `T1/fxl/m/n' will be
+(Font)              scaled to size 12.0pt on input line 6.
+LaTeX Font Info:    Font shape `T1/fxl/bx/n' in size <12> not available
+(Font)              Font shape `T1/fxl/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `T1/fxl/b/n' will be
+(Font)              scaled to size 12.0pt on input line 6.
+LaTeX Font Info:    Font shape `T1/fxl/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 10.
+LaTeX Font Info:    Font shape `T1/fxl/m/sc' will be
+(Font)              scaled to size 10.95pt on input line 10.
 
+Underfull \vbox (badness 1052) has occurred while \output is active []
 
-] [8] [9] [10] [11]) [12]
-\openout2 = `ambiguidade.aux'.
+ [7
 
- (./ambiguidade.tex [13
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 32.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 32.
- [14] [15] [16] [17]
-[18]) [19]
+ [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+[10]) [11]
+\openout2 = `ambiguidade.aux'.
+
+ (./ambiguidade.tex
+LaTeX Font Info:    Font shape `T1/fxl/m/it' will be
+(Font)              scaled to size 8.0pt on input line 3.
+LaTeX Font Info:    Font shape `T1/fxl/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/fxl/b/n' tried instead on input line 7.
+LaTeX Font Info:    Font shape `T1/fxl/b/n' will be
+(Font)              scaled to size 10.95pt on input line 7.
+ [12
+
+
+]
+LaTeX Font Info:    Try loading font information for OMS+fxl on input line 30.
+LaTeX Font Info:    No file OMSfxl.fd. on input line 30.
+
+
+LaTeX Font Warning: Font shape `OMS/fxl/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 30.
+
+
+Underfull \vbox (badness 1484) has occurred while \output is active []
+
+ [13]
+<fig1.png, id=235, 130.98938pt x 135.50626pt>
+File: fig1.png Graphic file (type png)
+ <use fig1.png>
+Underfull \hbox (badness 6608) in paragraph at lines 45--45
+[]\T1/fxl/m/n/10 Figura 1.1: []Se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\T1/fxl/m/n/10 o jo-ga-dor A
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 45--45
+\T1/fxl/m/n/10 faz uma jo-gada
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 45--45
+\T1/fxl/m/n/10 após a cor-re-ção,
+ []
+
+
+Overfull \hbox (7.78935pt too wide) in paragraph at lines 58--59
+\T1/fxl/m/n/10 vida, pro-ble-mas de es-tra-té-gia não-necessários. Puni-los par
+a não incentivá-
+ []
+
+[14 <./fig1.png (PNG copy)>] [15]
+Overfull \hbox (0.44963pt too wide) in paragraph at lines 98--99
+\T1/fxl/m/n/10 uma carta de mesma cor da que está na pi-lha de DES-CARTE. 
+ []
+
+[16]
+Overfull \hbox (0.48953pt too wide) in paragraph at lines 130--131
+[]\T1/fxl/m/n/10 Com oito jo-ga-do-res, eles po-dem ser jo-gar se-pa-ra-da-ment
+e
+ []
+
+[17]) [18]
 \openout2 = `estrategias.aux'.
 
- (./estrategias.tex
-Overfull \hbox (3.18071pt too wide) in paragraph at lines 5--6
-\T1/cmr/m/n/10 olhada em es-tra-té-gias ge-rais, que são im-por-tan-tes guias d
-e ação. Quando
- []
-
-[20
+ (./estrategias.tex [19
 
 
-] [21] [22] [23] [24]
-Overfull \hbox (2.91591pt too wide) in paragraph at lines 77--78
-[]\T1/cmr/m/n/10 Saber, di-re-ta-mente, as car-tas dos ou-tros, é im-pos-sí-vel
- (ex-ceto quando
- []
 
-[25] [26] [27]
-Underfull \vbox (badness 6032) has occurred while \output is active []
+] <fig2.png, id=270, 307.1475pt x 50.43843pt>
+File: fig2.png Graphic file (type png)
 
- [28]
-[29] [30] [31] [32]
-Underfull \vbox (badness 1024) has occurred while \output is active []
-
- [33]
-Overfull \hbox (3.90767pt too wide) in paragraph at lines 178--179
-[]\T1/cmr/m/n/10 Ter que
- []
-
-
-Overfull \hbox (2.46774pt too wide) in paragraph at lines 179--180
-[]
- []
-
-[34] [35] [36] [37] [38] [39]
+<use fig2.png> [20 <./fig2.png>] [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40]
-[41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55]
-[56]
-Underfull \vbox (badness 4429) has occurred while \output is active []
+ [22]
+Overfull \hbox (0.17947pt too wide) in paragraph at lines 75--76
+[]\T1/fxl/m/n/10 Não vou, neste guia, acon-se-lhar a de-so-nes-ti-dade. Além di
+sso, explicá-
+ []
 
- [57]
+[23] [24]
+! Too many }'s.
+l.106 \end{itemize}}
+                    
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[25] [26] [27] [28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58]
+ [29]
+Overfull \hbox (7.06946pt too wide) in paragraph at lines 178--179
+[]\T1/fxl/m/n/10 Esquecer
+ []
+
+
+Overfull \hbox (1.79942pt too wide) in paragraph at lines 179--180
+[]\T1/fxl/m/n/10 Cartas de com-pra (Com-
+ []
+
+[30] [31] [32] <fig3.png, id=346, 131.74219pt x 142.28156pt>
+File: fig3.png Graphic file (type png)
+ <use fig3.png>
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+[]\T1/fxl/m/n/10 Figura 2.2:
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 230--230
+\T1/fxl/m/n/10 fica com ape-nas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+\T1/fxl/m/n/10 uma carta na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+\T1/fxl/m/n/10 ou-tra cor, ele
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [59])
-[60] [61]
+ [33 <./fig3.png (PNG copy)>] [34]
+Overfull \hbox (1.29935pt too wide) in paragraph at lines 261--262
+[]\T1/fxl/m/n/10 Assim, exis-tem vá-rios mo-ti-vos para com-prar car-tas es-pon
+-ta-ne-a-mente,
+ []
+
+<fig4.png, id=364, 137.01187pt x 142.28156pt>
+File: fig4.png Graphic file (type png)
+ <use fig4.png>
+Underfull \hbox (badness 1360) in paragraph at lines 273--273
+\T1/fxl/m/n/10 carta que pode ser jo-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 278--279
+[]\T1/fxl/m/n/10 Acontece que essa si-tu-a-ção, tec-ni-ca-
+ []
+
+[35 <./fig4.png (PNG copy)>] [36] [37] [38]
+Overfull \hbox (0.83943pt too wide) in paragraph at lines 344--345
+\T1/fxl/m/n/10 des-co-or-de-na-das, va-mos con-si-de-rar que a co-mu-ni-ca-ção 
+en-tre elas é aberta.
+ []
+
+[39] [40] [41] <fig5.png, id=410, 307.1475pt x 48.93282pt>
+File: fig5.png Graphic file (type png)
+ <use fig5.png>
+<fig6.png, id=411, 307.1475pt x 48.93282pt>
+File: fig6.png Graphic file (type png)
+ <use fig6.png> [42 <./fig5.png> <./fig6.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
+Underfull \vbox (badness 2080) has occurred while \output is active []
+
+ [46]
+[47] <fig7.png, id=443, 131.74219pt x 142.28156pt>
+File: fig7.png Graphic file (type png)
+ <use fig7.png>
+Underfull \hbox (badness 1803) in paragraph at lines 474--474
+\T1/fxl/m/n/10 cu-ringa. O jo-
+ []
+
+[48 <./fig7.png (PNG copy)>]
+Overfull \hbox (2.04883pt too wide) in paragraph at lines 507--508
+[]\T1/fxl/m/n/10 O abas-te-ci-mento, por-tanto, de-pende das con-di-ções do ad-
+ver-sá-rio alvo:
+ []
+
+[49] [50] [51]) [52]
 \openout2 = `alternativas.aux'.
 
  (./alternativas.tex
-Overfull \hbox (10.9745pt too wide) in paragraph at lines 1--1
-[]\T1/cmr/bx/n/14.4 Regras Al-ter-na-ti-vas: A Cus-to-mi-za-ção do UNO 
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[62
+ [53
 
-
-] [63] [64] [65]
-Overfull \hbox (9.12723pt too wide) in paragraph at lines 74--75
-[]\T1/cmr/m/n/10 Qualquer jo-ga-dor, desde o prin-
- []
-
-
-Overfull \hbox (1.85817pt too wide) in paragraph at lines 75--76
-[]\T1/cmr/m/n/10 Apenas de-pois de um nú-mero
- []
-
-
-Overfull \hbox (6.74586pt too wide) in paragraph at lines 76--77
-[]\T1/cmr/m/n/10 Apenas após al-gum evento do jogo
- []
-
-[66] [67] [68] [69] [70] [71] [72]
-Overfull \hbox (1.0903pt too wide) in paragraph at lines 184--185
-[]\T1/cmr/m/n/10 Quando cor-tes fo-rem fei-tos en-vol-vendo
- []
-
-[73] [74] [75] [76]
-Overfull \hbox (9.2522pt too wide) in paragraph at lines 215--216
-[]\T1/cmr/m/n/10 As car-tas po-dem ser jo-ga-das de forma
- []
-
-[77] [78] [79] [80]
-Overfull \hbox (1.26248pt too wide) in paragraph at lines 281--282
-[]\T1/cmr/m/n/10 As duas úl-ti-mas car-tas da pi-lhas de des-carte referem-
- []
-
-[81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95]
-[96] [97] [98] [99]
-Overfull \hbox (0.90591pt too wide) in paragraph at lines 606--607
-[]\T1/cmr/m/n/10 O si-lên-cio dura ape-nas uma (ou uma quan-
- []
-
-[100] [101]
-Overfull \hbox (2.36731pt too wide) in paragraph at lines 645--646
-[]\T1/cmr/m/n/10 Os efei-tos dessa re-gra são obri-ga-tó-rios; as-sim, aquele
- []
-
-[102] [103] [104] [105] [106]
-Overfull \hbox (2.36731pt too wide) in paragraph at lines 759--760
-[]\T1/cmr/m/n/10 Os efei-tos dessa re-gra são obri-ga-tó-rios; as-sim, aquele
- []
-
-[107] [108] [109] [110] [111] [112] [113] [114] [115]
-Overfull \hbox (6.75975pt too wide) in paragraph at lines 933--934
-[]\T1/cmr/m/n/10 Um jogo pra gru-pos mai-
- []
-
-
-Overfull \hbox (1.89983pt too wide) in paragraph at lines 941--942
-[]\T1/cmr/m/n/10 Duplo Des-carte e De-sa-fio Po-li-va-lente,
- []
-
-[116]
-Overfull \hbox (1.60823pt too wide) in paragraph at lines 950--951
-[]\T1/cmr/m/n/10 Mesma va-ri-a-ção, mas com Des-carte Rá-
- []
-
-) [117]
-\openout2 = `appendix.aux'.
-
- (./appendix.tex [118
 
 
 ]
-Underfull \hbox (badness 1178) in paragraph at lines 48--48
-[]|\T1/cmr/m/n/10 Velocidade (V) \T1/cmr/m/it/10 e va-ri-a-
+Overfull \hbox (3.82936pt too wide) in paragraph at lines 29--30
+[]\T1/fxl/m/n/10 Esta re-gra, em-bora possa pa-re-cer inó-cua, pos-sui pro-fun-
+das con-sequên-
+ []
+
+[54] [55] [56] [57] [58] [59]
+Overfull \hbox (2.02951pt too wide) in paragraph at lines 121--122
+[]\T1/fxl/m/n/10 Como os jo-ga-do-res não po-dem
+ []
+
+[60] [61] <fig8.png, id=552, 325.96782pt x 126.4725pt>
+File: fig8.png Graphic file (type png)
+ <use fig8.png> [62 <./fig8.png (PNG copy)>]
+Overfull \hbox (0.33887pt too wide) in paragraph at lines 186--187
+[]\T1/fxl/m/n/10 O corte pode ser feito por qual-quer jo-ga-dor, a qual-
+ []
+
+[63]
+Overfull \hbox (4.30943pt too wide) in paragraph at lines 191--192
+[]\T1/fxl/m/n/10 Quando cor-tes fo-rem fei-tos en-vol-vendo car-
  []
 
 
-Underfull \hbox (badness 2012) in paragraph at lines 49--49
-[]|\T1/cmr/m/n/10 Primeira Re-gra da Paz
+Overfull \hbox (2.62952pt too wide) in paragraph at lines 194--195
+[]\T1/fxl/m/n/10 Dessa vez, de certa forma o corte con-si-dera o efeito
+ []
+
+[64] [65] <fig9.png, id=573, 263.48438pt x 74.52844pt>
+File: fig9.png Graphic file (type png)
+ <use fig9.png> [66 <./fig9.png>] [67] [68]
+Underfull \vbox (badness 1558) has occurred while \output is active []
+
+ [69]
+Overfull \hbox (4.05943pt too wide) in paragraph at lines 294--295
+\T1/fxl/m/n/10 mente, esta carta não pos-si-bi-lita que vá-rias car-tas se-jam 
+jo-ga-das ao mesmo
+ []
+
+[70] [71] [72] [73]
+Overfull \hbox (1.44954pt too wide) in paragraph at lines 369--370
+\T1/fxl/m/n/10 pra-das por causa de uma pu-ni-ção (Com-prar Duas ou Cu-ringa Co
+m-
+ []
+
+[74] [75] [76]
+Underfull \vbox (badness 1635) has occurred while \output is active []
+
+ [77]
+[78]
+Overfull \hbox (1.08934pt too wide) in paragraph at lines 447--448
+\T1/fxl/m/n/10 im-por-tân-cia au-menta ex-po-nen-ci-al-mente. Ter vá-rias car-t
+as Com-prar Duas
+ []
+
+[79] [80] [81] [82]
+Overfull \hbox (0.89886pt too wide) in paragraph at lines 537--538
+[]\T1/fxl/m/n/10 A Re-gra do Passe (es-pe-ci-fi-ca-mente, sua quarta
+ []
+
+[83] [84] [85] [86] [87]
+Overfull \hbox (4.86885pt too wide) in paragraph at lines 634--635
+[]\T1/fxl/m/n/10 Dizer ``UNO'' é per-mi-tido --- ou en-tão combina-
+ []
+
+[88] [89] [90] [91] [92] [93] [94]
+Overfull \hbox (2.05946pt too wide) in paragraph at lines 794--795
+[]\T1/fxl/m/n/10 Se al-guma des-sas re-gras for apli-cada, isto
+ []
+
+[95] [96] [97]
+Overfull \hbox (1.84886pt too wide) in paragraph at lines 851--852
+[]\T1/fxl/m/n/10 O jo-gar de da-dos é uma ope-ra-ção que pode le-var mais tempo
+.
  []
 
 
-Overfull \hbox (15.46414pt too wide) in alignment at lines 29--50
- [] [] 
+Overfull \hbox (0.64879pt too wide) in paragraph at lines 865--866
+[]\T1/fxl/m/n/10 A carta Três torna-se im-por-tante em ter-mos es-tra-té-gi-cos
+, adi-ci-o-nando
+ []
+
+[98]
+Overfull \hbox (3.76952pt too wide) in paragraph at lines 875--876
+[]\T1/fxl/m/n/10 As con-sequên-cias de se jo-gar uma carta Três ainda
+ []
+
+[99]
+Overfull \hbox (4.66954pt too wide) in paragraph at lines 898--899
+[]\T1/fxl/m/n/10 As con-sequên-cias de se jo-gar uma carta Oito ainda
+ []
+
+[100] [101] [102] [103]
+Underfull \vbox (badness 1092) has occurred while \output is active []
+
+ [104]
+[105] [106]
+Overfull \hbox (4.37886pt too wide) in paragraph at lines 1054--1055
+[]\T1/fxl/m/n/10 Aqui são apre-sen-ta-dos có-di-gos de va-ri-a-ções pron-tas de
+ UNO de acordo
+ []
+
+[107]
+Overfull \hbox (7.90936pt too wide) in paragraph at lines 1077--1078
+[]\T1/fxl/m/n/10 Um jogo pra gru-pos mai-o-res, mas
  []
 
 
-Underfull \vbox (badness 10000) detected at line 50
+Overfull \hbox (1.50934pt too wide) in paragraph at lines 1085--1086
+[]\T1/fxl/m/n/10 Duplo Des-carte e De-sa-fio Po-li-va-lente, além
  []
 
 
-Underfull \hbox (badness 2653) in paragraph at lines 61--61
-[]|\T1/cmr/m/n/10 Segunda Re-gra da Paz
+Overfull \hbox (5.26949pt too wide) in paragraph at lines 1093--1094
+[]\T1/fxl/m/n/10 Início do jogo com mais
+ []
+
+[108]
+Overfull \hbox (12.34938pt too wide) in paragraph at lines 1095--1096
+[]\T1/fxl/m/n/10 Mesma va-ri-a-ção, mas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
-[]|\T1/cmr/m/n/10 Regra da Pres-cri-ção
+Overfull \hbox (1.81935pt too wide) in paragraph at lines 1106--1107
+[]\T1/fxl/m/n/10 Menos car-tas, sem pre-ci-sar con-tar pon-tos, des-
+ []
+
+) [109]
+\openout2 = `appendix.aux'.
+
+ (./appendix.tex [110
+
+
+
+] [111] [112]
+Underfull \hbox (badness 1460) in paragraph at lines 42--42
+\T1/fxl/m/n/10 iguais po-dem ser des-car-ta-das na
  []
 
 
-Overfull \hbox (15.46414pt too wide) in alignment at lines 50--67
- [] [] 
+Underfull \hbox (badness 1521) in paragraph at lines 43--43
+[]|\T1/fxl/m/n/10 Duas car-tas idên-ti-cas po-dem ser
  []
 
-[119] [120] [121]
+
+Underfull \hbox (badness 3128) in paragraph at lines 47--47
+[]|\T1/fxl/m/n/10 Cartas com-pra-das por causa de
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 47--47
+\T1/fxl/m/n/10 car-tas Com-prar Duas ou Com-
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 54
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+[]|\T1/fxl/m/n/10 Regra da Cla-ri-vi-dên-cia
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 71--71
+[]|\T1/fxl/m/n/10 Os jo-ga-do-res po-dem des-con-fiar
+ []
+
+[113] [114] [115] [116]
+Overfull \hbox (1.34952pt too wide) in paragraph at lines 85--86
+[]\T1/fxl/m/n/10 Segundo as re-
+ []
+
+
+Overfull \hbox (5.48943pt too wide) in paragraph at lines 86--87
+[]\T1/fxl/m/n/10 Segundo as re-gras ofi-ci-ais, ``Se
+ []
+
+[117] [118] [119]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [122]
-[123] [124]) [125]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 79.
- [126
+ [120])
+[121]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 307.28978pt, 56.9055pt)
+* v-part:(T,H,B)=(71.70166pt, 418.25368pt, 107.55254pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=307.28978pt
+* \textheight=418.25368pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-26.7947pt
+* \headheight=12.0pt
+* \headsep=14.22636pt
+* \topskip=10.0pt
+* \footskip=14.22636pt
+* \marginparwidth=51.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-] (./guia.aux (./intro.aux) (./oficiais.aux)
-(./ambiguidade.aux) (./estrategias.aux) (./alternativas.aux) (./appendix.aux)) 
-) 
+LaTeX Font Info:    Font shape `T1/fxl/m/n' will be
+(Font)              scaled to size 9.0pt on input line 82.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 89.
+ [122
+
+
+]
+\tf@toc=\write5
+\openout5 = `guia.toc'.
+
+ (./guia.aux (./intro.aux) (./oficiais.aux) (./ambiguidade.aux)
+(./estrategias.aux) (./alternativas.aux) (./appendix.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5844 strings out of 493848
- 80067 string characters out of 1152824
- 172529 words of memory out of 3000000
- 8593 multiletter control sequences out of 15000+50000
- 19947 words of font info for 44 fonts, out of 3000000 for 9000
- 714 hyphenation exceptions out of 8191
- 38i,8n,38p,1239b,464s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-t
-exlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx100
-0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/te
-xmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/publ
-ic/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1200
-.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/tex
-mf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/publi
-c/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.
-pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texm
-f/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public
-/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.p
-fb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb></usr/share/texmf
-/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on guia.pdf (126 pages, 677148 bytes).
+ 23140 strings out of 494653
+ 281002 string characters out of 1173952
+ 526429 words of memory out of 3000000
+ 25737 multiletter control sequences out of 15000+50000
+ 147406 words of font info for 86 fonts, out of 3000000 for 9000
+ 291 hyphenation exceptions out of 8191
+ 43i,12n,42p,1222b,457s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/rev_peterson/.texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0900.600pk>{/
+usr/share/texmf-texlive/fonts/enc/dvips/libertine/xl-8x.enc} </home/rev_peterso
+n/.texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk>{/usr/share/texmf-texli
+ve/fonts/enc/dvips/base/8r.enc} </home/rev_peterson/.texmf-var/fonts/pk/ljfour/
+jknappen/ec/ectt1095.600pk></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/libertine/fxlb.pfb></usr/share/texmf-texl
+ive/fonts/type1/public/libertine/fxlr.pfb></usr/share/texmf-texlive/fonts/type1
+/public/libertine/fxlri.pfb>
+Output written on guia.pdf (122 pages, 895450 bytes).
 PDF statistics:
- 1114 PDF objects out of 1200 (max. 8388607)
- 385 named destinations out of 1000 (max. 500000)
- 238 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1149 PDF objects out of 1200 (max. 8388607)
+ 388 named destinations out of 1000 (max. 500000)
+ 307 words of extra memory for PDF output out of 10000 (max. 10000000)
 
