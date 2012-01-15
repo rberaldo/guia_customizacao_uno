@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.11.28)  15 JAN 2012 20:09
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.11.28)  15 JAN 2012 21:28
 entering extended mode
  %&-line parsing enabled.
 **guia.tex
@@ -1078,14 +1078,7 @@ Overfull \hbox (0.17947pt too wide) in paragraph at lines 75--76
 sso, explicá-
  []
 
-[23] [24]
-! Too many }'s.
-l.106 \end{itemize}}
-                    
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-[25] [26] [27] [28]
+[23] [24] [25] [26] [27] [28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
@@ -1438,7 +1431,7 @@ pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
 hare/texmf-texlive/fonts/type1/public/libertine/fxlb.pfb></usr/share/texmf-texl
 ive/fonts/type1/public/libertine/fxlr.pfb></usr/share/texmf-texlive/fonts/type1
 /public/libertine/fxlri.pfb>
-Output written on guia.pdf (122 pages, 895450 bytes).
+Output written on guia.pdf (122 pages, 895449 bytes).
 PDF statistics:
  1149 PDF objects out of 1200 (max. 8388607)
  388 named destinations out of 1000 (max. 500000)
